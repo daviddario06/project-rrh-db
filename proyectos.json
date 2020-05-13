@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "projectName": "Middleware",
+        "clientName": "Trenes Argentinos",
+        "leaderName": "Fernando Bolten",
+        "initDate": "01-02-2018",
+        "endDate": "01-02-2020",
+        "active": false,
+        "team": [
+            {
+                "name": "Nahuel Araujo"
+            },
+            {
+                "name": "Nahuel Del Capellan"
+            }
+        ],
+        "technologies": [
+            {
+                "name": "Java"
+            },
+            {
+                "name": "Fuse JBOSS"
+            },
+            {
+                "name": "Apache Camel"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "projectName": "Homebanking",
+        "clientName": "Santander Rio",
+        "leaderName": "Jose Gonzalez",
+        "initDate": "15-06-2016",
+        "endDate": null,
+        "active": true,
+        "team": [
+            {
+                "name": "Manuel Planta"
+            },
+            {
+                "name": "Carolina Muguruza"
+            },
+            {
+                "name": "Pedro Suarez"
+            },
+            {
+                "name": "Carlos Br"
+            }
+        ],
+        "technologies": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "MySQL"
+            },
+            {
+                "name": "Java"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "projectName": "Piloto automatico",
+        "clientName": "Toyota",
+        "leaderName": "Ignacio Toyoto",
+        "initDate": "01-02-2019",
+        "endDate": null,
+        "active": true,
+        "team": [
+            {
+                "name": "Ernesto Mesa"
+            },
+            {
+                "name": "Matias Bloque"
+            },
+            {
+                "name": "Josefa Botella"
+            }
+        ],
+        "technologies": [
+            {
+                "name": "Java"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Mongo"
+            }
+        ]
+    }
+]

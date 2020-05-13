@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "personalData": {
+            "firstName": "David",
+            "secondName": "Suyo",
+            "dni": 12345678,
+            "address": "calle falso 123",
+            "mail": "david_suyo@itrsa.com.ar",
+            "birthdate": "29-02-1993"
+        },
+        "projects": [],
+        "technologies": [
+            {
+                "name": "Java",
+                "level": "Básico"
+            },
+            {
+                "name": "Angular",
+                "level": "Básico"
+            },
+            {
+                "name": "react",
+                "level": "Básico"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "personalData": {
+            "firstName": "Fernando",
+            "secondName": "Bolten",
+            "dni": 98745632,
+            "address": "avenida siempre viva 742",
+            "mail": "fernando_bolten@itrsa.com.ar",
+            "birthdate": "01-01-1980"
+        },
+        "projects": [],
+        "technologies": [
+            {
+                "name": "Pascal",
+                "level": "Avanzado"
+            },
+            {
+                "name": "Psint",
+                "level": "Avanzado"
+            },
+            {
+                "name": "Visual Basic",
+                "level": "Avanzado"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "personalData": {
+            "firstName": "Nahuel",
+            "secondName": "Del Capellan",
+            "dni": 87456123,
+            "address": "avenida siempre viva 744",
+            "mail": "nahuel_de_capellan@itrsa.com.ar",
+            "birthdate": "01-01-1990"
+        },
+        "projects": [],
+        "technologies": [
+            {
+                "name": "Java",
+                "level": "Intermedio"
+            },
+            {
+                "name": "AWS",
+                "level": "Intermedio"
+            },
+            {
+                "name": ".Net",
+                "level": "Basico"
+            },
+            {
+                "name": "React",
+                "level": "Desconoce"
+            },
+            {
+                "name": "Angular",
+                "level": "Desconoce"
+            },
+            {
+                "name": "Dockers",
+                "level": "Basico"
+            },
+            {
+                "name": "Open Shift",
+                "level": "Desconoce"
+            },
+            {
+                "name": "Nodejs",
+                "level": "Avanzado"
+            },
+            {
+                "name": "Python",
+                "level": "Basico"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "personalData": {
+            "firstName": "Nahuel",
+            "secondName": "Araujo",
+            "dni": 45612378,
+            "address": "221B Baker Street",
+            "mail": "nahuel_araujon@itrsa.com.ar",
+            "birthdate": "01-01-2000"
+        },
+        "projects": [],
+        "technologies": [
+            {
+                "name": "Java",
+                "level": "Avanzado"
+            },
+            {
+                "name": ".Net",
+                "level": "Intermedio"
+            },
+            {
+                "name": "React",
+                "level": "Intermedio"
+            },
+            {
+                "name": "Angular",
+                "level": "Basico"
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[{
+    "customerData":{
+        "customerid":1,
+        "businessName": "trenes Argentinos",
+        "corporateReference":"Armando Barreda",
+        "telephoneContact":"453269842",
+        "mail":"patofeliz@trenesargentinos.com.ar",
+        "adddres":"Av Santa fe 123",
+        "proyects": []
+    }
+},{
+    
+    "customerData":{
+        "customerid":2,
+        "businessName": "YPF",
+        "corporateReference":"Laura Guido",
+        "telephoneContact":"453269842",
+        "mail":"pollofeliz@YPF.com.ar",
+        "adddres":"Av Santa fe 1223",
+        "proyects": []
+    }
+},{
+
+    "customerData":{
+        "customerid":3,
+        "businessName": "Valot",
+        "corporateReference":"Hernan Caseres",
+        "telephoneContact":"52316458",
+        "mail":"chanchofeliz@Valotsa.com.ar",
+        "adddres":"Av Santa rosa 512",
+        "proyects": []
+    }
+
+
+}]
